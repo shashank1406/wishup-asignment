@@ -1,0 +1,25 @@
+{
+  "name": "wishup-asignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank1406/wishup-asignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank1406/wishup-asignment/issues"
+  },
+  "homepage": "https://github.com/shashank1406/wishup-asignment#readme",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
